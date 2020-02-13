@@ -1,7 +1,7 @@
 /* Threadiverse Bootstrap theme (dark) */
 /* Made with https://bootstrap.build/app */
 
-$white: #202020;
+$white: #000;
 $gray-100: #404040;
 $gray-200: #505050;
 $gray-300: #606060;
@@ -11,5 +11,17 @@ $gray-600: #909090;
 $gray-700: #a0a0a0;
 $gray-800: #b0b0b0;
 $gray-900: #c0c0c0;
-$black: #e0e0e0;
 $enable-rounded: false;
+$blue: rgb(2, 103, 250);
+$indigo: rgb(16, 132, 242);
+$purple: rgb(139,19,253);
+$pink: rgb(252, 72, 154);
+$red: rgb(250,25,2);
+$orange: rgb(253,139,19);
+$yellow: rgb(253,217,19);
+$green: rgb(1, 177, 41);
+$teal: rgb(5, 250, 178);
+$cyan: rgb(2, 187, 226);
+$warning: $orange;
+$yiq-contrasted-threshold: 200;
+$black: #ffffff;
